@@ -1,6 +1,7 @@
 int main(void)
 {
-    printf ("Hola mundo");
+    printf ("Hola mundo que me estas viendo");
     printf ("¿Como estas?");
     
 }
+
