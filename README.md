@@ -1,8 +1,4 @@
 # ProyectoEjemplo
 Mi primer repositorio de GitHub
 
-Mas lineas
-
-Vamos a empezar desde el principio
-
-nueva modificacion
+Nuevas modificaciones de testing
