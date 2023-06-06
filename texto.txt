@@ -2,3 +2,8 @@ hola soy monico
 esto lo modifico pero no debe actualizarse.
 sigo modificando este fichero.
 modificadco desde rama testing
+
+06-06-2023
+----------
+Nuevos cambios en el tipo de iva.
+
